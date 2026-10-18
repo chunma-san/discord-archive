@@ -78,7 +78,6 @@ Archived messages and audit records are private runtime data. The security-trap 
 - `requirements.txt` or the project file declares dependencies.
 - `.env.example` documents configuration names without live values.
 - `.gitignore` excludes credentials, sessions, generated data and build output.
-- `assets/banner.svg` is an original animated vector illustration. It has a static fallback and respects reduced-motion preferences in supporting viewers.
 
 ## Verification
 
